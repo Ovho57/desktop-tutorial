@@ -1,4 +1,4 @@
-# 📐 Math for AI
+# Math for AI
 
 Build intuition for vectors, matrices, functions, graphs, probability, statistics, derivatives, and gradients.
 
@@ -17,4 +17,4 @@ Build intuition for vectors, matrices, functions, graphs, probability, statistic
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
