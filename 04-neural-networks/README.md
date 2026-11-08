@@ -1,4 +1,4 @@
-# 🧠 Neural Networks
+# Neural Networks
 
 Discover neurons, layers, activation functions, loss, gradient descent, backpropagation, optimizers, and training loops.
 
@@ -17,4 +17,4 @@ Discover neurons, layers, activation functions, loss, gradient descent, backprop
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
