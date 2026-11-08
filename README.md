@@ -64,9 +64,11 @@ Do not memorise unfamiliar words just to pass a question. Stop and learn the ide
 
 ## Course progress
 
-All nine module pages now contain teaching material rather than topic-only placeholders. Start at Module 00 if you are new, then continue in order. Each module has lessons, explanations, questions, and a practical task or project. The course can still be improved with more diagrams, expanded solutions, and additional projects, so treat it as a growing learning resource.
+Every module is now organised like a small textbook: its folder contains separate chapter files, and its module README is a table of contents. Chapters explain concepts, define vocabulary, show worked examples, ask checkpoint questions, and give you practice tasks. Start at Module 00 and read the chapters in order. The course is a growing learning resource, so keep notes and test every example yourself.
 
 - [Start Module 00 — Setup](00-setup/README.md)
+- [Open Chapter 1 — Understanding Your Tools](00-setup/01-understanding-your-tools.md)
+- [Open Chapter 1 — Python Values and Variables](01-python/01-values-variables-and-input.md)
 - [Continue to Module 01 — Python](01-python/README.md)
 - [View the full roadmap](#the-roadmap)
 
