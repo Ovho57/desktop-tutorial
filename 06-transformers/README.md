@@ -1,4 +1,4 @@
-# ⚡ Transformers & Attention
+# Transformers & Attention
 
 Learn self-attention, queries/keys/values, positional encodings, transformer blocks, and autoregressive text generation.
 
@@ -17,4 +17,4 @@ Learn self-attention, queries/keys/values, positional encodings, transformer blo
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
