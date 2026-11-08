@@ -1,4 +1,4 @@
-# ⚙️ Setup & Developer Tools
+# Setup & Developer Tools
 
 Get your machine ready: Python, Git, terminal basics, editor setup, virtual environments, and running your first script.
 
@@ -17,4 +17,4 @@ Get your machine ready: Python, Git, terminal basics, editor setup, virtual envi
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
