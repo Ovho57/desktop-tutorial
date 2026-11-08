@@ -7,6 +7,8 @@ This is a practical course for learning how to build AI systems from the ground 
 
 **Important course promise:** a lesson must explain a concept before asking you to use it. New technical words are defined when they first appear. Exercises should only rely on material already taught. If a question uses an idea you have not met yet, that is a course error—not something you are expected to magically know.
 
+Each module now contains a structured teaching guide with explanations, worked examples, checkpoints, practice, and a project. The guides build on earlier modules; complete them in order if you are a beginner.
+
 ---
 
 ## Choose your starting point
@@ -62,10 +64,10 @@ Do not memorise unfamiliar words just to pass a question. Stop and learn the ide
 
 ## Course progress
 
-The roadmap is the full intended learning path, but **not every module is a finished lesson yet**. We are expanding the modules into complete teaching guides in sequence. At present, Module 00 has the detailed beginner guide; the other module pages are outlines and should not be mistaken for completed lessons.
+All nine module pages now contain teaching material rather than topic-only placeholders. Start at Module 00 if you are new, then continue in order. Each module has lessons, explanations, questions, and a practical task or project. The course can still be improved with more diagrams, expanded solutions, and additional projects, so treat it as a growing learning resource.
 
-- [Start the completed beginner setup guide](00-setup/README.md)
-- [View the Python module outline](01-python/README.md)
+- [Start Module 00 — Setup](00-setup/README.md)
+- [Continue to Module 01 — Python](01-python/README.md)
 - [View the full roadmap](#the-roadmap)
 
 ---
