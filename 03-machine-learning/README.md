@@ -1,4 +1,4 @@
-# 📊 Machine Learning
+# Machine Learning
 
 Understand datasets, features, labels, preprocessing, train/validation/test splits, regression, classification, metrics, and overfitting.
 
@@ -17,4 +17,4 @@ Understand datasets, features, labels, preprocessing, train/validation/test spli
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
