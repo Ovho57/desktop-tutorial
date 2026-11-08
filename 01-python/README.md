@@ -1,4 +1,4 @@
-# 🐍 Python Foundations
+# Python Foundations
 
 Learn the language used throughout this course: variables, types, conditions, loops, functions, collections, files, exceptions, modules, classes, and NumPy.
 
@@ -17,4 +17,4 @@ Learn the language used throughout this course: variables, types, conditions, lo
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
