@@ -1,85 +1,88 @@
 # AI FROM SCRATCH
-### Your journey from zero to building your own AI.
+### Learn the foundations. Build your own AI. Understand every step.
 
 > **Don't just use AI. Understand it. Build it. Train it. Ship it.**
 
-Welcome! This is a hands-on desktop learning path that takes you from the foundations of programming all the way to training and deploying a small language model. Every module is designed to help you learn by doing—not just watching tutorials.
+This is a practical course for learning how to build AI systems from the ground up. It is designed for beginners, but it also gives experienced learners a roadmap for choosing the topics they need.
+
+**Important course promise:** a lesson must explain a concept before asking you to use it. New technical words are defined when they first appear. Exercises should only rely on material already taught. If a question uses an idea you have not met yet, that is a course error—not something you are expected to magically know.
 
 ---
 
 ## Choose your starting point
 
-You do **not** have to start at lesson one if you already know the basics.
+You do not have to start at lesson one if you already know the foundations.
 
-| Your experience | Start here |
+| Your experience | Suggested starting point |
 |---|---|
-| **Complete beginner** | [Setup →](00-setup/README.md) then follow the full path |
-| **I already know Python** | [Math for AI →](02-mathematics/README.md) or [Machine Learning →](03-machine-learning/README.md) |
-| **I know machine learning** | [Neural Networks →](04-neural-networks/README.md) |
-| **I know neural networks** | [NLP →](05-nlp/README.md) |
-| **I know NLP / deep learning** | [Transformers →](06-transformers/README.md) |
-| **I have built models before** | [Train a Model →](07-training-a-model/README.md) or [Deployment →](08-engineering-deployment/README.md) |
+| Complete beginner | [00 — Setup](00-setup/README.md) |
+| Comfortable with a computer, new to Python | [01 — Python Foundations](01-python/README.md) |
+| Know Python | [02 — Math for AI](02-mathematics/README.md) |
+| Know the maths and basic ML | [03 — Machine Learning](03-machine-learning/README.md) |
+| Have trained basic ML models | [04 — Neural Networks](04-neural-networks/README.md) |
+| Understand neural networks | [05 — Natural Language Processing](05-nlp/README.md) |
+| Understand NLP and deep learning | [06 — Transformers](06-transformers/README.md) |
+| Have studied transformers | [07 — Train a Small Model](07-training-a-model/README.md) |
+| Have a working model | [08 — Engineering & Deployment](08-engineering-deployment/README.md) |
 
-**Not sure?** Open a module, check its topics, and take the route that matches what you already understand. No need to repeat what you know.
-
----
-
-## The learning roadmap
-
-Follow the modules in order if you're new. Each title opens its module guide.
-
-1. **[Setup & Developer Tools](00-setup/README.md)** 
- Get Python, Git, your terminal, and editor ready.
-
-2. **[Python Foundations](01-python/README.md)** 
- Learn the language we'll use to build our AI.
-
-3. **[Math for AI](02-mathematics/README.md)** 
- Understand vectors, matrices, probability, statistics, and gradients.
-
-4. **[Machine Learning](03-machine-learning/README.md)** 
- Teach computers to learn patterns from data.
-
-5. **[Neural Networks](04-neural-networks/README.md)** 
- Build networks, understand backpropagation, and learn how training works.
-
-6. **[Natural Language Processing](05-nlp/README.md)** 
- Help computers work with words, sentences, and meaning.
-
-7. **[Transformers & Attention](06-transformers/README.md)** 
- Understand the architecture behind modern language models.
-
-8. **[Train Your Own Small Model](07-training-a-model/README.md)** 
- Prepare data, train a model, evaluate it, and generate text.
-
-9. **[Engineering & Deployment](08-engineering-deployment/README.md)** 
- Turn your model into something people can actually use.
+If you are unsure, start at the beginning. You can move forward when you can complete a module's exercises and explain its key ideas in your own words.
 
 ---
 
-## How to learn here
+## The roadmap
 
-- **Read:** Understand the idea before copying code.
-- **Build:** Type the examples and experiment with them.
-- **Practice:** Answer the questions at the end of each lesson.
-- **Create:** Complete the mini-projects to prove you understand.
-- **Track:** Keep your notes and solutions in your own workspace.
+1. [**00 — Setup & Developer Tools**](00-setup/README.md) — Install and use Python, a terminal, a code editor, Git, and virtual environments.
+2. [**01 — Python Foundations**](01-python/README.md) — Learn variables, data types, conditions, loops, functions, collections, files, and modules.
+3. [**02 — Math for AI**](02-mathematics/README.md) — Build an understanding of vectors, matrices, probability, statistics, derivatives, and gradients.
+4. [**03 — Machine Learning**](03-machine-learning/README.md) — Learn datasets, features, labels, training, evaluation, and common ML methods.
+5. [**04 — Neural Networks**](04-neural-networks/README.md) — Understand neurons, layers, activation functions, loss, gradient descent, and backpropagation.
+6. [**05 — Natural Language Processing**](05-nlp/README.md) — Learn how computers process text, tokenization, vocabularies, and embeddings.
+7. [**06 — Transformers & Attention**](06-transformers/README.md) — Learn attention, queries, keys, values, transformer blocks, and text generation.
+8. [**07 — Train Your Own Small Model**](07-training-a-model/README.md) — Prepare data, train a small model, evaluate it, and generate text.
+9. [**08 — Engineering & Deployment**](08-engineering-deployment/README.md) — Package a model, create an API, test it, and deploy it responsibly.
+
+---
+
+## How each complete lesson should work
+
+Every full lesson should follow this order:
+
+1. **Goal:** what you will understand by the end.
+2. **Prerequisites:** what you should already know.
+3. **Explanation:** a plain-language introduction to the new idea.
+4. **Vocabulary:** define new technical terms before using them.
+5. **Worked example:** show the steps and explain why they work.
+6. **Practice:** give you a question that uses only concepts already introduced.
+7. **Solution or hint:** help you check your understanding.
+8. **Mini-project:** combine the ideas from the lesson or module.
+
+Do not memorise unfamiliar words just to pass a question. Stop and learn the idea first.
+
+---
+
+## Course progress
+
+The roadmap is the full intended learning path, but **not every module is a finished lesson yet**. We are expanding the modules into complete teaching guides in sequence. At present, Module 00 has the detailed beginner guide; the other module pages are outlines and should not be mistaken for completed lessons.
+
+- [Start the completed beginner setup guide](00-setup/README.md)
+- [View the Python module outline](01-python/README.md)
+- [View the full roadmap](#the-roadmap)
+
+---
 
 ## Get the course on your computer
+
+Install Git, open your terminal, and run:
 
 ```bash
 git clone https://github.com/Ovho57/desktop-tutorial.git
 cd desktop-tutorial
 ```
 
-Open the folder in VS Code or your preferred editor and start with the module that fits your level.
+Then open the folder in your code editor.
 
 ## The mission
 
-By the end, you should understand the core ideas behind modern AI and have built a small model yourself. You won't become an AI expert overnight—but you'll have the foundation and practical experience to keep going.
+The goal is not to pretend that building a modern AI model is easy. The goal is to understand the foundations, build small things, learn from mistakes, and gradually work toward training and deploying a small language model of your own.
 
-**Made for curious minds. Built one lesson at a time.** 
-
----
-
- If this roadmap helps you, star the repository and share it with another future AI builder.
+**Learn it properly. Build it yourself.**
