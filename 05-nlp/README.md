@@ -1,4 +1,4 @@
-# 💬 Natural Language Processing
+# Natural Language Processing
 
 Turn text into data with cleaning, tokenization, vocabularies, embeddings, sequence modeling, and language-model basics.
 
@@ -17,4 +17,4 @@ Turn text into data with cleaning, tokenization, vocabularies, embeddings, seque
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
