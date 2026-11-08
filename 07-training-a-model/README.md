@@ -1,4 +1,4 @@
-# 🚀 Train Your Own Small Model
+# Train Your Own Small Model
 
 Prepare a dataset, create batches, configure a model, train it, monitor loss, save checkpoints, evaluate, and generate text.
 
@@ -17,4 +17,4 @@ Prepare a dataset, create batches, configure a model, train it, monitor loss, sa
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
