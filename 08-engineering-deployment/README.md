@@ -1,4 +1,4 @@
-# 🌐 Engineering & Deployment
+# Engineering & Deployment
 
 Package your model, build an inference API, add tests, handle errors, measure performance, consider safety, and deploy responsibly.
 
@@ -17,4 +17,4 @@ Package your model, build an inference API, add tests, handle errors, measure pe
 
 > Course note: This is the module landing page. Detailed lesson notes, exercises, and project files will be added here as the course is expanded.
 
-[⬅️ Back to the course home](../README.md)
+[ Back to the course home](../README.md)
